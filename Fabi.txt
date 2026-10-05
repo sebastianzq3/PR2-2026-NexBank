@@ -1,0 +1,4 @@
+Nombre: Fabiana Darlene
+Apellidos: Zurita Delgado
+Grupo: TriByte Devs
+Rol o responsabilidad principal: Diseño y parte del desarrollo de la interfaz web.
