@@ -1,0 +1,4 @@
+Nombre: Sebastián
+Apellidos: Zubieta Quiroga
+Grupo: TriByte Devs
+Rol o responsabilidad principal: Control de versiones y manejo del repositorio.
